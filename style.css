@@ -1,0 +1,34 @@
+* {
+    margin: 8px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: slateblue;
+}
+
+.container {
+    background-color: slateblue;
+    margin: 0 auto;
+
+}
+
+.tepa-qism {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+#chek1 {
+    margin-left: 1000px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+#chek2 {
+    height: 30px;
+    border-radius: 5px;
+}
